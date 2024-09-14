@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continent-Country-Capital", "Continent-Country-Capital.csproj", "{08A43D5D-5E46-4A3E-AC5C-BE26930E45FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "..\Shop\Shop.csproj", "{DD9D43A0-8DB3-4123-9C68-2C356D1F8F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "..\Grades\Grades.csproj", "{D52A19F1-A672-4866-A59F-AB8BB0A2FAF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A43D5D-5E46-4A3E-AC5C-BE26930E45FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A43D5D-5E46-4A3E-AC5C-BE26930E45FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A43D5D-5E46-4A3E-AC5C-BE26930E45FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A43D5D-5E46-4A3E-AC5C-BE26930E45FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9D43A0-8DB3-4123-9C68-2C356D1F8F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9D43A0-8DB3-4123-9C68-2C356D1F8F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9D43A0-8DB3-4123-9C68-2C356D1F8F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9D43A0-8DB3-4123-9C68-2C356D1F8F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52A19F1-A672-4866-A59F-AB8BB0A2FAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52A19F1-A672-4866-A59F-AB8BB0A2FAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52A19F1-A672-4866-A59F-AB8BB0A2FAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52A19F1-A672-4866-A59F-AB8BB0A2FAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEFA498-0D7B-4622-943C-965850EE3F30}
+	EndGlobalSection
+EndGlobal
